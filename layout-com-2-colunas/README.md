@@ -3,3 +3,7 @@
 - Crie um layout com duas colunas, uma ao lado da outra;
 - A coluna da esquerda deverá ter 25% de tamanho e a coluna da direita deverá ocupar o espaço que sobra;
 - Faça uma separação de 1rem entre os elementos.
+
+# Resolução
+
+![Resolução](./resolução.png "Resolução")
